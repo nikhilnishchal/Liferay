@@ -45,3 +45,22 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/.bnd
+/.gradle
+/.ivy
+/baseline-reports
+/build.*.properties
+/dist
+*.MD5
+
+/ivy.xml
+
+.sass-cache*
+
+.classpath
+.project
+.tern-project
+.settings
+.gitignore
+.gitattributes
