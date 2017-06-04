@@ -1,0 +1,5 @@
+Bundle-Name: MyService
+Bundle-SymbolicName: com.niknis.service
+Bundle-Version: 1.0.0
+Bundle-Activator: com.niknis.activator.MyServiceActivator
+Export-Package: com.niknis.service

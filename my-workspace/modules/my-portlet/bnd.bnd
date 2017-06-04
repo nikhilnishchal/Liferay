@@ -1,0 +1,4 @@
+Bundle-Name: my-portlet
+Bundle-SymbolicName: com.niknis.portlet
+Bundle-Version: 1.0.0
+-sources: true
